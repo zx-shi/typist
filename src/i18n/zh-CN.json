@@ -1,0 +1,23 @@
+{
+  "Words": "单词",
+  "Sentences": "句子",
+  "Code": "代码",
+  "Accuracy": "准确率",
+  "Time": "时间",
+  "Errors": "错误",
+  "Start typing — no need to click anything": "直接开始打字，无需点击任何按钮",
+  "Tab: switch set · Ctrl+R: restart · F1: shortcuts · Esc: quit": "Tab：切换练习集 · Ctrl+R：重新开始 · F1：快捷键 · Esc：退出",
+  "Done!": "完成！",
+  "%1 WPM · %2% accuracy · %3s": "%1 WPM · 准确率 %2% · %3 秒",
+  "Space for the next text": "按空格键开始下一段",
+  "Shortcuts": "快捷键",
+  "Type": "打字",
+  "fill in the text": "输入显示的文字",
+  "erase a character": "删除一个字符",
+  "switch practice set": "切换练习集",
+  "jump to a set": "直接跳到某个练习集",
+  "restart this text": "重新开始这一段",
+  "next text when done": "完成后进入下一段",
+  "toggle this help": "打开或关闭此帮助",
+  "close / quit": "关闭 / 退出"
+}

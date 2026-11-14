@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Typist
+Name[zh_CN]=Typist 打字练习
+Name[zh_TW]=Typist 打字練習
+Comment=Keyboard typing practice with live speed and accuracy
+Comment[zh_CN]=键盘打字练习，实时显示速度和准确率
+Comment[zh_TW]=鍵盤打字練習，即時顯示速度和準確率
+Exec=typist
+Icon=typist
+Terminal=false
+Categories=Utility;Education;
+StartupWMClass=typist

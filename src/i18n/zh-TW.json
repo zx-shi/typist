@@ -1,0 +1,23 @@
+{
+  "Words": "單字",
+  "Sentences": "句子",
+  "Code": "程式碼",
+  "Accuracy": "準確率",
+  "Time": "時間",
+  "Errors": "錯誤",
+  "Start typing — no need to click anything": "直接開始打字，無需點擊任何按鈕",
+  "Tab: switch set · Ctrl+R: restart · F1: shortcuts · Esc: quit": "Tab：切換練習集 · Ctrl+R：重新開始 · F1：快捷鍵 · Esc：離開",
+  "Done!": "完成！",
+  "%1 WPM · %2% accuracy · %3s": "%1 WPM · 準確率 %2% · %3 秒",
+  "Space for the next text": "按空白鍵開始下一段",
+  "Shortcuts": "快捷鍵",
+  "Type": "打字",
+  "fill in the text": "輸入顯示的文字",
+  "erase a character": "刪除一個字元",
+  "switch practice set": "切換練習集",
+  "jump to a set": "直接跳到某個練習集",
+  "restart this text": "重新開始這一段",
+  "next text when done": "完成後進入下一段",
+  "toggle this help": "開啟或關閉此說明",
+  "close / quit": "關閉 / 離開"
+}
